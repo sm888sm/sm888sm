@@ -9,8 +9,6 @@ I'm just getting started with open-sourcing my projects, but I'm excited to shar
 * 🛠 Looking for collaborations to create some portfolio projects
 * 💬 Feel free to ask me anything 👍
 
-My old github : [Github](https://github.com/sm1234sm)
-
 <h3 align="center">📇Contact me on: </h3>
 
 <p align="center">

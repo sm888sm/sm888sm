@@ -14,7 +14,7 @@ I'm just getting started with open-sourcing my projects, but I'm excited to shar
 <a href="https://linkedin.com/in/sm888sm" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://discordapp.com/users/1216404734844600401" target="_blank" ><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://t.me/sm888_sm" target="_blank" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="mailto:septian.maulana@hotmail.com" target="_blank" ><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
+<a href="mailto:septian.maulana@hotmail.com" target="_blank" ><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
 </p>
 
 ## ⚡💎 Stats

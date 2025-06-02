@@ -1,4 +1,4 @@
-<h1 align="center"> ⚡💎 Hello everyone, welcome 🧑‍💻 </h1>
+<h1 align="center"> Stephen Lam </h1>
 
 
 

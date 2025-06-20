@@ -1,4 +1,4 @@
-<h1 align="center"> Good blessing for those who visit this page</h1>
+<h1 align="center"> Blessing for those who visit this page</h1>
 
 
 

@@ -3,9 +3,9 @@
 
 
 <p align="center">
-<a href="https://twitter.com/sm_888_sm" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /> </a>
-<a href="https://linkedin.com/in/sm888sm" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:septian.maulana@hotmail.com" target="_blank" ><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+<a href="https://twitter.com/sm_888_sm" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=fff" /> </a>
+<a href="https://linkedin.com/in/sm888sm" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=fff" /></a>
+<a href="mailto:sm888sm@proton.me" target="_blank" ><img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff" /></a>
 </p>
 
 ## ⚡💎 Stats
